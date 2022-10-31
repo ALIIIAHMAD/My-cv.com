@@ -1,5 +1,4 @@
 # My-cv.com
-<!Doctype Html>  
 <Html>     
 <Head>      
 <Title>     
